@@ -3,7 +3,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/adnanaz)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/adnanaz)](https://github.com/adnanaz?tab=repositories)
-[![Visits Badge](https://badges.pufler.dev/visits/adnanaz/adnanaz)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/adnanaz/adnanaz)](https://badges.pufler.dev) -->
 
 
 ### 🔭 I’m currently working as: 
